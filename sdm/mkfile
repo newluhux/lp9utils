@@ -1,0 +1,8 @@
+< /$objtype/mkfile
+
+TARG=sdm
+
+OFILES=sdm.$O
+
+BIN=/$objtype/bin
+</sys/src/cmd/mkone
